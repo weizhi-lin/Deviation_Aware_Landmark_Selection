@@ -1,7 +1,7 @@
 # Deviation_Aware_Landmark_Selection
 Codes for "Automated Deviation-Aware Landmark Selection for Freeform Product Accuracy Qualification in 3D Printing" in IISE Transactions 
 
-## Including:
+Including:
 1. "Toolbox" folder contains all the codes needed for basic mesh processing.
 2. "myfunction" folder contains the codes necessary for deviation-aware shape segmentation and landmark selection.
 3. "Data/bunny2.off" is the file for the triangular mesh of the Stanford bunny.
