@@ -1,5 +1,6 @@
-# Deviation_Aware_Landmark_Selection
-Codes for "Automated Deviation-Aware Landmark Selection for Freeform Product Accuracy Qualification in 3D Printing" in IISE Transactions 
+# Codes for the paper "Automated Deviation-Aware Landmark Selection for Freeform Product Accuracy Qualification in 3D Printing" 
+
+This repository provides a MATLAB implementation of the paper.
 
 Including:
 1. "Toolbox" folder contains all the codes needed for basic mesh processing.
